@@ -16,5 +16,7 @@ The code perfroms the following functions:
     5.Apply Number formatting to cells
 
 ![Screenshots from Multi Stock Data]
+
 **2014**
-(Images/2014.JPG)
+
+(Images/2014.jpg)
