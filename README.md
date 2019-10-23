@@ -19,4 +19,4 @@ The code perfroms the following functions:
 
 **2014**
 
-![2014}(Images/2014.jpg)
+![2014](Images/2014.jpg)
