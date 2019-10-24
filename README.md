@@ -2,8 +2,8 @@
 VBA Homework
 
 This repo consists of the following files:
-    *Alphabet Testing Excel file on which the test code was run
-    *Module 1, VBA script that was created to test over the Alphabet Testing Excel file
+   1. Alphabet Testing Excel file on which the test code was run
+   2. Module 1, VBA script that was created to test over the Alphabet Testing Excel file
     *Multi Stock Data Excel FIle
     *MSD Module, VBA acripth that runs over Multi Stock Data Excel File
     *Testdata VBS file that contains the VBA script that was created to run on both the files
