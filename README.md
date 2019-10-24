@@ -9,11 +9,11 @@ This repo consists of the following files:
    5. Testdata VBS file that contains the VBA script that was created to run on both the files
 
 The code perfroms the following functions:
-    1. Runs over all the sheets in the excel file
-    2. Searches for all the unique ticker symbols in the excel file and calculates the yearly change, percent change, and total volume for each ticker symbol into seperate columns
-    3. From those new created column find the max and min of the percent change. Also, find the max of the volume
-    4. Apply conditional formatting to cells
-    5. Apply Number formatting to cells
+   1. Runs over all the sheets in the excel file
+   2. Searches for all the unique ticker symbols in the excel file and calculates the yearly change, percent change, and total volume for each ticker symbol into seperate columns
+   3. From those new created column find the max and min of the percent change. Also, find the max of the volume
+   4. Apply conditional formatting to cells
+   5. Apply Number formatting to cells
 
 ## Screenshots from Multi Stock Data
 
